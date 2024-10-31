@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Select } from "./02-type-parameters/04-generic-component/task-solution.tsx";
+import { Select } from "./03-type-parameters/04-generic-component/task-solution.tsx";
 
 type Country = {
   value: string;
